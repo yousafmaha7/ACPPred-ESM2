@@ -11,7 +11,8 @@ from esm.pretrained import esm2_t33_650M_UR50D
 model = joblib.load("best_adaboost_esm2_model.pkl")
 
 # Load pretrained ESM-2 model: esm2_t33_650M_UR50D gives 1280-d features
-esm_model, alphabet = esm2_t33_650M_UR50D()
+#esm_model, alphabet = esm2_t33_650M_UR50D()
+esm_model, alphabet = esm.pretrained.esm2_t6_8M_UR50D()
 batch_converter = alphabet.get_batch_converter()
 esm_model.eval()
 
