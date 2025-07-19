@@ -5,4 +5,4 @@ pandas==2.1.4
 scikit-learn==1.5.2
 joblib==1.2.0
 biopython==1.84
-tqdm
+tqdm==4.66.4
