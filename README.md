@@ -1,5 +1,5 @@
 # ACP-ESM2: Machine Learning and Transfer Learning based Anticancer Peptide Prediction Web Tool
-ACP-ESM2 is novel, state of the art, machine learning and transfer learning based web application that employs a pretrained ESM-2 model and AdaBoost classifier to perform anticancer peptide (ACP) classification.
+ACP-ESM2 is a novel, state of the art, machine learning and transfer learning based web application that employs a pretrained ESM-2 model and AdaBoost classifier to perform anticancer peptide (ACP) classification.
 ## Features
 
 - Accepts peptide sequences in FASTA format
@@ -14,7 +14,7 @@ To run this app locally, follow these steps:
 ### 1. Clone the Repository
 ```
 git clone https://github.com/yousafmaha7/ACP-ESM2.git
-cd acp-esm2
+cd ACP-ESM2
 ```
 ### 2. Create and Activate a Virtual Environment (Recommended)
 If you are using windows, then open command prompt or windows powershell in your desired directory.
