@@ -34,7 +34,7 @@ def extract_esm_features(sequences):
     return features
 
 # Streamlit UI
-st.title("ACP-ESM2: Tool for Anticancer Peptide Prediction")
+st.title("ACPPred-ESM2: Tool for Anticancer Peptide Prediction")
 
 input_method = st.radio("Choose input method:", ["Paste Sequence", "Upload FASTA File"])
 sequences = []
@@ -73,3 +73,4 @@ if sequences:
                 st.download_button("Download Results", csv, "predictions.csv", "text/csv")
             except Exception as e:
                 st.error(f"An error occurred during prediction:\n{str(e)}")
+
