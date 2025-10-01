@@ -1,5 +1,5 @@
-# ACP-ESM2: Machine Learning and Transfer Learning based Anticancer Peptide Prediction Web Tool
-ACP-ESM2 is a novel, state of the art, machine learning and transfer learning based web application that employs a pretrained ESM-2 model and AdaBoost classifier to perform anticancer peptide (ACP) classification.
+# ACPPred-ESM2: Machine Learning and Transfer Learning based Anticancer Peptide Prediction Web Tool
+ACPPred-ESM2 is a novel, state of the art, machine learning and transfer learning based web application that employs a pretrained ESM-2 model and AdaBoost classifier to perform anticancer peptide (ACP) classification.
 ## Features
 
 - Accepts peptide sequences in FASTA format
