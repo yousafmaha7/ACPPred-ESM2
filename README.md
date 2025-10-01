@@ -13,8 +13,8 @@ To run this app locally, follow these steps:
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/yousafmaha7/ACP-ESM2.git
-cd ACP-ESM2
+git clone https://github.com/yousafmaha7/ACPPred-ESM2.git
+cd ACPPred-ESM2
 ```
 ### 2. Create and Activate a Virtual Environment (Recommended)
 If you are using windows, then open command prompt or windows powershell in your desired directory.
