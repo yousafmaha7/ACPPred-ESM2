@@ -1,9 +1,0 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.7.1+cpu
-streamlit==1.46.1
-fair-esm==2.0.0
-pandas==2.1.4
-scikit-learn==1.5.2
-joblib==1.2.0
-biopython==1.84
-tqdm==4.66.4
